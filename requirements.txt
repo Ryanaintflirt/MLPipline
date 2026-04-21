@@ -2,6 +2,9 @@
 numpy>=1.24
 pandas>=2.0
 scikit-learn>=1.3
+matplotlib
+seaborn
+optuna
 
 # Deep learning (optional path: transformer fine-tuning)
 torch>=2.0
